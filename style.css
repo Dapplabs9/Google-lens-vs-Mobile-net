@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(36, 121, 177);
+    color: white;
+}
+.test{
+    background-color: white;
+    color: rgb(36, 121, 177);
+    width: 1000px;
+    border-radius: 10px;
+}
